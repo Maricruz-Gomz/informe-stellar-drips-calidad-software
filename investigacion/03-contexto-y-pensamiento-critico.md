@@ -2,132 +2,133 @@
 
 ## 1. Introducción
 
-Las tecnologías blockchain y Web3 pueden utilizarse para desarrollar
-sistemas descentralizados relacionados con servicios financieros,
-financiamiento y distribución de recursos.
+El proyecto Hub Mixteca busca atender la falta de canales de comercialización y visibilidad de mercado de Costuras de Tijaltepec.
 
-Sin embargo, la aplicación de estas tecnologías en una región específica
-requiere analizar las condiciones sociales, económicas, tecnológicas y
-de infraestructura de la población.
+La solución propuesta contempla herramientas digitales para aumentar la visibilidad del taller, facilitar la consulta de productos y permitir el seguimiento de pedidos.
 
-## 2. Adaptación al contexto de la región Mixteca
+El análisis de Stellar y Drips permite estudiar cómo deben adaptarse los requisitos de calidad cuando se consideran tecnologías blockchain y las condiciones de la región Mixteca.
 
-La implementación de una solución Web3 en la región Mixteca debe
-considerar las condiciones reales de acceso a internet, dispositivos
-digitales y conocimientos tecnológicos.
+## 2. Contexto del proyecto
 
-Por esta razón, antes de implementar una solución debe analizarse la
-población objetivo y sus necesidades.
+Costuras de Tijaltepec realiza actualmente actividades de venta y gestión de pedidos principalmente de manera presencial.
 
-Los requisitos de calidad no deben establecerse únicamente desde el
-punto de vista técnico. También deben considerar accesibilidad,
-usabilidad y facilidad de comprensión.
+La solución digital busca complementar la tienda física mediante un canal que permita mostrar información del taller y facilitar la interacción con compradores.
 
-## 3. Conectividad y accesibilidad
+Uno de los objetivos es reducir la dependencia de la atención presencial y facilitar la consulta de información.
 
-La disponibilidad de conexión a internet puede influir en la utilización
-de aplicaciones blockchain.
+## 3. Adaptación al contexto de la región Mixteca
 
-Por ello, una aplicación dirigida a usuarios de diferentes localidades
-debe considerar:
+La solución debe considerar las condiciones tecnológicas de los usuarios de la región.
 
-- Facilidad de acceso.
-- Diseño de interfaces sencillas.
-- Mensajes claros para el usuario.
-- Manejo adecuado de errores de conexión.
-- Documentación comprensible.
-- Compatibilidad con diferentes dispositivos.
+Durante la definición del proyecto se estableció la necesidad de utilizar el sistema desde dispositivos móviles y considerar la conectividad mediante una interfaz ligera y fotografías optimizadas.
 
-Los datos concretos sobre conectividad y acceso tecnológico de la región
-deben respaldarse mediante estadísticas oficiales.
+Por esta razón, los requisitos de calidad deben considerar:
 
-## 4. Pensamiento crítico sobre blockchain
+- Usabilidad.
+- Accesibilidad.
+- Rendimiento.
+- Optimización de imágenes.
+- Compatibilidad con dispositivos móviles.
+- Facilidad de navegación.
 
-La utilización de blockchain no garantiza automáticamente que un sistema
-sea seguro.
+## 4. Relación con Stellar y Drips
 
-Aunque determinadas operaciones pueden registrarse de forma verificable,
-los componentes de software que controlan dichas operaciones pueden
-contener errores o vulnerabilidades.
+Stellar utiliza un protocolo de consenso para mantener un estado consistente de la red.
 
-Por ello, deben analizarse el código, las pruebas, las auditorías, la
-gestión de cambios y los mecanismos de seguridad.
+Drips utiliza contratos inteligentes para establecer reglas relacionadas con la distribución de fondos.
 
-## 5. Riesgos de seguridad
+El análisis de ambas plataformas permite identificar la importancia de establecer reglas claras, mecanismos de verificación y controles de seguridad.
 
-Los sistemas que utilizan contratos inteligentes pueden presentar
-riesgos relacionados con errores de programación, vulnerabilidades o
-configuraciones incorrectas.
+Sin embargo, Hub Mixteca no necesita incorporar toda la infraestructura de Stellar o Drips.
 
-En sistemas que manejan activos digitales, estos riesgos pueden tener
-consecuencias económicas.
+La tecnología debe seleccionarse de acuerdo con las necesidades reales del proyecto.
 
-Por ello, algunas medidas de mitigación son:
+## 5. Pensamiento crítico sobre blockchain
 
-- Pruebas automatizadas.
-- Revisión del código.
-- Auditorías de seguridad.
-- Análisis estático.
-- Pruebas de diferentes escenarios.
-- Documentación de cambios.
-- Monitoreo y mantenimiento.
+Blockchain no debe considerarse automáticamente como una solución para todos los problemas tecnológicos.
 
-## 6. Auditoría del código abierto
+Su incorporación debe estar justificada por un requisito concreto.
 
-El código abierto permite consultar públicamente el software y revisar
-su evolución.
+En Hub Mixteca se identifican como posibles beneficios:
 
-Esto favorece la transparencia y puede facilitar la detección de
-errores. Sin embargo, que el código sea público no significa que haya
-sido revisado completamente.
+- Integridad.
+- Trazabilidad.
+- Verificabilidad.
 
-Por ello, la calidad requiere combinar código abierto con procesos de
-revisión, pruebas y auditorías.
+Si una función no requiere estas características, puede utilizar tecnologías convencionales que sean más sencillas y adecuadas para el proyecto.
+
+Esta decisión permite reducir complejidad y evitar utilizar blockchain de manera innecesaria.
+
+## 6. Riesgos de seguridad
+
+El sistema manejará información relacionada con talleres, productos, compradores y pedidos.
+
+La gestión de pedidos también puede involucrar información relacionada con anticipos y saldos pendientes.
+
+Por ello, deben considerarse los siguientes riesgos:
+
+| Riesgo | Posible consecuencia | Medida de calidad |
+|---|---|---|
+| Alteración de información | Pérdida de confianza | Control de cambios |
+| Datos incompletos | Errores en pedidos | Validación de información |
+| Modificación incorrecta de anticipos | Conflictos con compradores | Protección de registros |
+| Información desactualizada | Confusión del comprador | Actualización de datos |
+| Imágenes demasiado pesadas | Dificultad de acceso | Optimización |
+| Problemas de conectividad | Dificultad para consultar | Interfaz ligera |
 
 ## 7. Consideraciones éticas
 
-El uso de tecnologías financieras descentralizadas requiere considerar:
+El sistema debe proporcionar información clara sobre las operaciones que realiza y sobre los datos que registra.
 
-- Transparencia.
-- Protección de los usuarios.
-- Accesibilidad.
-- Privacidad.
-- Comprensión de los riesgos.
-- Responsabilidad ante errores.
-- Posibles barreras tecnológicas.
+Los usuarios deben poder comprender qué información se utiliza y cuál es su finalidad.
 
-La información proporcionada a los usuarios debe explicar claramente
-cómo funciona el sistema y cuáles son sus limitaciones.
+También debe evitarse presentar blockchain como una garantía absoluta de seguridad.
 
-## 8. Adaptación de los requisitos de calidad
+La transparencia implica explicar claramente las características y limitaciones de la tecnología utilizada.
 
-| Situación | Requisito de calidad |
+## 8. Auditoría y código abierto
+
+El análisis de Stellar y Drips permite observar la importancia de las pruebas, revisiones y auditorías en proyectos de código abierto.
+
+En Hub Mixteca pueden aplicarse principios similares mediante:
+
+- Control de versiones.
+- Commits identificables.
+- Documentación.
+- Revisión de cambios.
+- Pruebas.
+- Evidencias.
+- Registro de decisiones.
+
+Estas prácticas permiten mantener trazabilidad sobre la evolución de la solución.
+
+## 9. Criterios de calidad adaptados
+
+| Criterio | Aplicación en Hub Mixteca |
 |---|---|
-| Diferentes condiciones de conectividad | Disponibilidad y accesibilidad |
-| Diferentes niveles de conocimientos digitales | Usabilidad |
-| Manejo de activos digitales | Seguridad |
-| Código abierto | Transparencia y trazabilidad |
-| Uso de contratos inteligentes | Verificabilidad |
-| Usuarios de diferentes localidades | Accesibilidad |
-| Posibles errores del software | Fiabilidad y mantenimiento |
+| Seguridad | Protección de información y registros |
+| Usabilidad | Interfaz sencilla para compradores y taller |
+| Accesibilidad | Uso desde dispositivos móviles |
+| Rendimiento | Contenido ligero e imágenes optimizadas |
+| Fiabilidad | Información correcta sobre pedidos |
+| Trazabilidad | Identificadores y registros |
+| Verificabilidad | Comprobación de información seleccionada |
+| Transparencia | Información clara para los usuarios |
 
-## 9. Conclusión
+## 10. Conclusión
 
-La adaptación de tecnologías Web3 al contexto de la Mixteca requiere
-considerar tanto los aspectos técnicos como las condiciones reales de
-los usuarios.
+El análisis de Stellar y Drips permite adaptar principios de calidad de sistemas descentralizados a las necesidades de Costuras de Tijaltepec.
 
-La calidad debe evaluarse mediante características como seguridad,
-fiabilidad, accesibilidad, usabilidad y transparencia.
+La solución debe priorizar seguridad, usabilidad, accesibilidad, rendimiento y trazabilidad.
 
-El código abierto y las auditorías pueden contribuir a mejorar la
-confianza en los sistemas, pero no eliminan completamente los riesgos.
+El uso de blockchain debe justificarse únicamente cuando proporcione una función concreta relacionada con la integridad, trazabilidad o verificabilidad.
 
-## 10. Referencias
+De esta manera, la tecnología se adapta al problema de falta de canales de comercialización y visibilidad de mercado.
+
+## 11. Referencias
 
 - Stellar Development Foundation. Stellar Developer Documentation.
+- Stellar Development Foundation. Stellar Consensus Protocol.
 - Drips Documentation.
-- INEGI. Estadísticas sobre disponibilidad y uso de tecnologías de la
-  información y comunicación.
-- Fuentes oficiales relacionadas con infraestructura y conectividad
-  de la región estudiada.
+- INEGI. Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares (ENDUTIH).
+- Documentación y validación del proyecto Hub Mixteca.
