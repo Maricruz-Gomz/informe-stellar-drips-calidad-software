@@ -1,3 +1,5 @@
+# 04. Interdisciplinario e integración
+
 ## 1. Introducción
 
 El proyecto Hub Mixteca combina conocimientos de ingeniería de software, calidad, tecnologías blockchain y economía Web3 para analizar una posible solución tecnológica para Costuras de Tijaltepec.
