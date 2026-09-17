@@ -1,140 +1,158 @@
 ## 1. Introducción
 
-El análisis de Stellar y Drips requiere integrar conocimientos de
-ingeniería de software, blockchain, seguridad informática y economía
-Web3.
+El proyecto Hub Mixteca combina conocimientos de ingeniería de software, calidad, tecnologías blockchain y economía Web3 para analizar una posible solución tecnológica para Costuras de Tijaltepec.
 
-Esta integración permite analizar no solamente cómo funcionan las
-tecnologías, sino también cómo pueden utilizarse para crear sistemas
-relacionados con servicios financieros y financiamiento de proyectos.
+La problemática principal del proyecto es la falta de canales de comercialización y visibilidad de mercado.
 
-## 2. Ingeniería de software y Web3
+El análisis de Stellar y Drips permite estudiar cómo diferentes tecnologías pueden relacionarse con los requisitos de calidad de la solución.
 
-La ingeniería de software proporciona métodos para analizar requisitos,
-diseñar sistemas, desarrollar software, realizar pruebas y mantener
-aplicaciones.
+## 2. Ingeniería de software y el problema del proyecto
 
-En sistemas Web3 estos principios continúan siendo importantes, pero
-también deben considerarse las características de las redes
-descentralizadas y los contratos inteligentes.
+La ingeniería de software permite transformar una problemática real en requisitos y funcionalidades.
 
-## 3. Calidad de software en sistemas descentralizados
+En Costuras de Tijaltepec se identificó la necesidad de mejorar la visibilidad del taller y facilitar la gestión y consulta de pedidos.
 
-Los requisitos tradicionales de calidad pueden relacionarse con
-diferentes características de blockchain:
+Por ello, la solución debe partir de las necesidades del taller y de los compradores antes de seleccionar una tecnología.
 
-| Característica | Aplicación |
+## 3. Calidad de software
+
+Las principales características de calidad consideradas para Hub Mixteca son:
+
+| Característica | Aplicación en el proyecto |
 |---|---|
-| Seguridad | Protección de operaciones y activos |
-| Fiabilidad | Funcionamiento consistente |
-| Rendimiento | Uso eficiente de los recursos |
-| Mantenibilidad | Facilidad para modificar el software |
-| Trazabilidad | Historial de cambios |
-| Transparencia | Código e información verificable |
-| Auditabilidad | Posibilidad de revisar el sistema |
+| Usabilidad | Consulta sencilla de productos y pedidos |
+| Seguridad | Protección de información y anticipos |
+| Fiabilidad | Información correcta sobre los pedidos |
+| Rendimiento | Interfaz ligera e imágenes optimizadas |
+| Trazabilidad | Identificación y seguimiento de pedidos |
+| Verificabilidad | Comprobación de información seleccionada |
+| Mantenibilidad | Código y documentación organizados |
 
-## 4. Stellar y la infraestructura financiera
+## 4. Stellar como referencia tecnológica
 
-Stellar es una red blockchain pública y de código abierto que puede
-utilizarse para aplicaciones relacionadas con activos y operaciones
-financieras.
+Stellar es una red blockchain pública y de código abierto que utiliza el Stellar Consensus Protocol para alcanzar consenso entre los participantes de la red.
 
-Su utilización permite relacionar la ingeniería de software con
-sistemas distribuidos y servicios financieros digitales.
+Su estudio permite analizar características relacionadas con:
 
-Desde el punto de vista de calidad, aspectos como el consenso, la
-seguridad, la fiabilidad y el rendimiento son relevantes para estudiar
-su funcionamiento.
+- Consenso.
+- Seguridad.
+- Integridad.
+- Trazabilidad.
+- Activos digitales.
 
-## 5. Drips y el financiamiento del software libre
+Para Hub Mixteca, estos conceptos permiten estudiar qué información podría requerir mecanismos de verificación.
 
-Drips utiliza blockchain y contratos inteligentes para permitir
-mecanismos de financiamiento de proyectos de software libre.
+No se plantea incorporar toda la infraestructura de Stellar al sistema.
 
-El protocolo permite establecer relaciones entre proyectos y sus
-dependencias mediante mecanismos de distribución de fondos.
+## 5. Drips como referencia tecnológica y económica
 
-Esto relaciona el desarrollo de software libre con nuevos mecanismos de
-financiamiento basados en blockchain.
+Drips utiliza contratos inteligentes y blockchain para establecer mecanismos de distribución de fondos hacia proyectos de software libre y sus dependencias.
+
+El protocolo incorpora conceptos como:
+
+- Financiamiento.
+- Streaming.
+- Distribución.
+- Dependencias.
+- Transparencia.
+- Verificabilidad.
+
+Estos conceptos permiten relacionar la ingeniería de software con mecanismos de financiamiento dentro de Web3.
 
 ## 6. Financiamiento on-chain
 
-El financiamiento on-chain utiliza infraestructura blockchain para
-registrar y ejecutar determinadas operaciones relacionadas con recursos
-digitales.
+El financiamiento on-chain utiliza infraestructura blockchain para registrar y ejecutar determinadas operaciones relacionadas con activos digitales.
 
-En Drips, los contratos inteligentes participan en la administración
-de las reglas de distribución.
+En Drips, los contratos inteligentes participan en las reglas de distribución de fondos.
 
-Desde la ingeniería de software, esto hace necesario verificar que las
-reglas implementadas funcionen correctamente.
+Para Hub Mixteca, este concepto puede analizarse como una referencia para operaciones que requieran trazabilidad o verificación.
 
-## 7. Streaming de fondos
+Sin embargo, los anticipos de Costuras de Tijaltepec no deben convertirse automáticamente en operaciones blockchain.
 
-El streaming permite realizar transferencias continuas de fondos
-durante un periodo determinado.
+Primero deben analizarse los requisitos, costos, seguridad, facilidad de uso y beneficios.
 
-Este mecanismo puede utilizarse para establecer modelos de apoyo
-recurrente a proyectos y dependencias de software libre.
+## 7. Streaming y economía Web3
 
-La relación interdisciplinaria puede representarse como:
+Drips utiliza mecanismos de streaming para realizar transferencias continuas de fondos.
+
+Este concepto demuestra cómo el software puede utilizar reglas programadas para gestionar operaciones económicas.
+
+Desde la ingeniería de software es necesario considerar:
+
+- Reglas de negocio.
+- Seguridad.
+- Estados.
+- Trazabilidad.
+- Manejo de errores.
+- Costos de operación.
+
+En Hub Mixteca, el streaming se considera principalmente como referencia para estudiar nuevas formas de representar reglas de negocio mediante tecnología Web3.
+
+## 8. Relación interdisciplinaria
+
+La relación entre las diferentes áreas puede representarse de la siguiente manera:
 
 Ingeniería de software
         ↓
-Software libre
+Requisitos de calidad
         ↓
-Blockchain
+Solución digital para Costuras de Tijaltepec
         ↓
-Contratos inteligentes
+Blockchain cuando sea necesario
         ↓
-Financiamiento on-chain
+Integridad / trazabilidad / verificabilidad
         ↓
-Streaming de fondos
+Stellar y Drips como referencias
+        ↓
+Economía Web3
+        ↓
+Financiamiento on-chain y streaming
 
-## 8. Integración de conocimientos
+## 9. Aplicación al proyecto Hub Mixteca
 
-| Área | Aportación |
+La integración interdisciplinaria debe mantenerse relacionada con la problemática principal:
+
+**Falta de canales de comercialización y visibilidad de mercado.**
+
+La solución contempla un perfil digital del taller, información de productos y seguimiento de pedidos.
+
+Por ello:
+
+- Las fotografías deben mantenerse optimizadas.
+- La información del perfil debe ser clara.
+- Los pedidos deben contar con trazabilidad.
+- Los registros de anticipos deben mantenerse protegidos.
+- La información que requiera verificación puede analizarse para utilizar blockchain.
+- La tienda física continúa formando parte del modelo de atención.
+
+## 10. Integración con los criterios de la rúbrica
+
+| Criterio | Relación con el proyecto |
 |---|---|
-| Ingeniería de software | Calidad, requisitos, pruebas y mantenimiento |
-| Blockchain | Registro y ejecución descentralizada |
-| Seguridad | Identificación y mitigación de vulnerabilidades |
-| Economía Web3 | Nuevos mecanismos de financiamiento |
-| Software libre | Desarrollo y colaboración abierta |
-| Financiamiento on-chain | Distribución programable de recursos |
-| Streaming | Transferencias continuas |
-| Contexto regional | Evaluación de posibilidades de adopción |
+| Desempeño técnico | Análisis técnico de Stellar y Drips |
+| Adaptación a situaciones complejas | Aplicación al contexto de la Mixteca |
+| Pensamiento crítico | Análisis de riesgos, seguridad y ética |
+| Actividades interdisciplinarias | Ingeniería de software, blockchain y economía Web3 |
+| Calidad | Seguridad, fiabilidad, rendimiento, usabilidad y trazabilidad |
 
-## 9. Relación con los criterios de la rúbrica
+## 11. Conclusión
 
-El análisis interdisciplinario permite relacionar la calidad de software
-con la economía Web3.
+El análisis de Stellar y Drips permite relacionar la ingeniería de software con blockchain y economía Web3.
 
-Stellar permite estudiar aspectos relacionados con infraestructura
-blockchain y operaciones financieras, mientras que Drips permite
-analizar mecanismos de financiamiento de proyectos de software libre.
+Stellar permite estudiar aspectos relacionados con infraestructura blockchain, consenso y operaciones financieras.
 
-La combinación de ambas perspectivas permite evaluar la calidad desde
-una perspectiva técnica, económica y social.
+Drips permite analizar mecanismos de financiamiento de proyectos de software libre, distribución y streaming de fondos.
 
-## 10. Conclusión
+Sin embargo, el objetivo principal continúa siendo resolver la falta de canales de comercialización y visibilidad de mercado de Costuras de Tijaltepec.
 
-El estudio de Stellar y Drips demuestra que los sistemas Web3 requieren
-una visión interdisciplinaria.
+Por ello, blockchain, financiamiento on-chain y streaming deben utilizarse como referencias para analizar estándares de calidad y posibles funcionalidades, y no como elementos que deban incorporarse obligatoriamente a la solución.
 
-La ingeniería de software aporta principios de calidad, seguridad,
-pruebas y mantenimiento, mientras que blockchain proporciona
-infraestructura para registrar y ejecutar operaciones descentralizadas.
-
-Drips agrega una dimensión relacionada con el financiamiento de
-software libre y el streaming de fondos.
-
-Por ello, el análisis de calidad debe considerar simultáneamente los
-aspectos tecnológicos, económicos y sociales.
-
-## 11. Referencias
+## 12. Referencias
 
 - Stellar Development Foundation. Stellar Developer Documentation.
 - Stellar Development Foundation. Stellar Consensus Protocol.
 - Drips Documentation. Introduction.
+- Drips Documentation. Overview.
 - Drips Documentation. Drips Inner Workings.
 - Drips Documentation. Security.
+- Documentación y validación del proyecto Hub Mixteca.
