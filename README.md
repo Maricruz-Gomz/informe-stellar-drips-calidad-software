@@ -27,6 +27,5 @@ interdisciplinario entre ingeniería de software y economía Web3.
 ## Cómo trabajamos
 
 Cada integrante sube directamente su archivo correspondiente a la rama
-`main`, dentro de la carpeta que le corresponde (`investigacion/`,
-`evidencia/`), usando la opción "Commit directly to the main branch"
+`main`, dentro de la carpeta que le corresponde (`investigacion/`), usando la opción "Commit directly to the main branch"
 de GitHub.
