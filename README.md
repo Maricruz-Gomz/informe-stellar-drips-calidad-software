@@ -22,7 +22,6 @@ interdisciplinario entre ingeniería de software y economía Web3.
 
 - `informe/` — documento final integrado.
 - `investigacion/` — notas de investigación de cada integrante, organizadas por criterio de la rúbrica.
-- `evidencia/` — enlaces, capturas y descripción de los Pull Requests reales que cada integrante abrió en los repositorios de Stellar y/o Drips.
 
 ## Cómo trabajamos
 
